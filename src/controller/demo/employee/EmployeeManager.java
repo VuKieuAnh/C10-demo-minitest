@@ -4,11 +4,12 @@ import model.Employee;
 
 import java.util.Collections;
 import java.util.List;
+import java.util.Set;
 
 public class EmployeeManager implements IEmployeeManager {
     @Override
-    public List<Employee> getAll() {
-        return Collections.emptyList();
+    public Set<Employee> getAll() {
+        return null;
     }
 
     @Override
