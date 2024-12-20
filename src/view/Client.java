@@ -1,6 +1,6 @@
 package view;
 
-import controller.BookManager;
+import controller.demo1.BookManager;
 import java.util.Scanner;
 
 public class Client {
